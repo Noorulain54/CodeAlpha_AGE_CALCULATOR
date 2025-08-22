@@ -163,15 +163,5 @@ Works in all modern browsers (Chrome, Edge, Firefox, Safari). No build tools req
 * **Blank result**: Ensure all three fields are filled with numbers.
 * **Wrong age**: Verify system date/time and input order (DD/MM/YYYY).
 
----
 
-## 📄 License
-
-MIT — free to use, modify, and share.
-
----
-
-## 🙌 Credits
-
-Made by *Your Name*. Inspired by beginner-friendly JS date utilities.
 
